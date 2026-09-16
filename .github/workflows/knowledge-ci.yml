@@ -10,7 +10,7 @@ permissions:
 jobs:
   policy-gate:
     name: HouseNet policy gate
-    uses: HouseNet-Projects/house-net-control-plane/.github/workflows/reusable-policy-gate.yml@15ffa9b1cc672a1c4fddcacfb823439942801c2c
+    uses: HouseNet-Projects/house-net-control-plane/.github/workflows/reusable-policy-gate.yml@88021e0fc32c08936411a9808b91f585f79726db
   knowledge:
     name: Knowledge contracts
     runs-on: ubuntu-24.04
