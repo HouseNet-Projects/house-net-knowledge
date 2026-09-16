@@ -3,6 +3,6 @@
   "classification": "B",
   "control_plane": "HouseNet-Projects/house-net-control-plane",
   "policy_version": "1.4.3",
-  "policy_commit": "88021e0fc32c08936411a9808b91f585f79726db",
+  "policy_commit": "40ed525b280ab43d59ae69bb27fca73bbe55aa04",
   "approval_reference": "OWNER-MISSION-DIGITAL-MEMORY-BACKBONE-2026-09-16"
 }
